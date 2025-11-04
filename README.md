@@ -6,4 +6,7 @@ email : admin@gmail.com
 password : password
 
 email : agent@gmail.com
-password : password 
+password : password
+
+email : manager@gmail.com
+password : password
